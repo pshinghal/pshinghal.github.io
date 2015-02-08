@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/pshinghal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pshinghal.com
+  * I am pshinghal (https://keybase.io/pshinghal) on keybase.
+  * I have a public key with fingerprint 095D 7615 AC75 AE53 5066  FD30 29AA 70F2 4BE0 7EF1
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.4"
+        },
+        "key": {
+            "fingerprint": "095d7615ac75ae535066fd3029aa70f24be07ef1",
+            "host": "keybase.io",
+            "key_id": "29AA70F24BE07EF1",
+            "uid": "d615cb107131a3f67835b10f20620f00",
+            "username": "pshinghal"
+        },
+        "merkle_root": {
+            "ctime": 1423389478,
+            "hash": "3ec8c86e4dccbc83ef08a44390c8b2df878c6b592809fd6674e70816c55e01c9869813361115f73ed397dbb9bc0aa73fc53d9ef52e483e56206d83b5b4e33203",
+            "seqno": 150786
+        },
+        "service": {
+            "hostname": "pshinghal.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423389571,
+    "expire_in": 157680000,
+    "prev": "91c519b26dd6aa28f942f785e7c58a8042be72201d8a02c50927368df52b9678",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFdkntQFVUcx3lo2cVXiWPkexsjHbqd3bOPsxdwgJRIGNHQxiwe+zh72YS7l93L
+Sx5hjTaWI6CFYoI5alNOI4iiYSqhWBRGMxoPJzEzYtIU4qnhNdplaMrOX+fx+X3P
+9/s7p2SKv4/Nd/Fhd3/s9cI+3+abos+advh2HiFqci7hyCOkNBW7PNbMJaRjwkFs
+wLmiYGC7qi1waTK2v2EsGGdCiCysG6rmMilg5+w0URBi4VaxorqcWHfrqqVFAJ6R
+OZZkBIljBMxABrCsIkNA8YLAAYWiRQw4rJCmZKpmeB66lRjTTFZlc5fiIyM5EE3R
+UcsBtzza4jPHDmRTXBJJwJGQFKDCcggy5lKhAEsBBQALNLA+HsltpJr2UoU0y3A6
+1jek4WRd08ZSSx7VYkiaghDxNIdMS4KRalZBLCEJsZiWJUmUEMQKQAJNQx5ISKRk
+BXFIYkWGpxDgFZllORpzAJGsxDAYkBKPWB6RELIkSTIKB7EMeU4WRV6UgNkFqEgM
+lHmsMBSmTXHGNM7KCIqMSGMIKQDNDAbOcGmmOQZwiC2w1nqWKmHLt9W3/8ezS1q6
+WeXWNY8maWnmUarH4zYcVmxPrttis6uxmDwukyyqLtms/O/Dkib6cEsYjgwhcI5b
+1XGyahEMxyJgDusinGVq8qTEkLxIsbLMCgKFFJ6mFA4xmJMYJCBAUyLmKAqQMhIA
+JTGApzjIItmMLvLm0/0blDF9Ck5T0lCdLsGTqWOiYKvfnAk+vjafRyb6WT/Xx/bY
+9H++81/6dJ+91UWbP75wjQud/MSU7Zd4W8Vyyl0RMLNjoHFTgu/k7LKT539viogZ
+eN47lJejzh1qz4j/5kRQcoy3PrZ859rymKiPfnsrbGTweO/Xw0lhw9c/6b+8qqBv
+4x/FV2sTqc/pam+8n9ff3WWseJE4vvBK21DYQd8lF4um1n3h32Hf1lx7djRgT1DN
+/B3hcYdSGryJcTPfnffBlo224dDecwnsxMH+p+c1Pxq4K1QPPP8m9fK97+o3tZV9
++2lcRMZR5+GOfflZ01Zmr9XSrzV5F/mVTmgpWWQcuPx496qa3BlFPRfEvf6RV0tv
+HRsdiuq6cZKAQYWhRxML735Z3b1g1hJ+ye2lgdMi8i/damwJFlb0fbUmydF+Km3p
+xa2dyxrqZl+6npgERzq7/Z8MbtSmFgjvDaeWjMbJ3Dvxx7IrJk2WX2ldV9Vd/MOs
+PxudvNaSvX9F7astp88irbWqMnrH/qS6mtcziypPHgmO3v1sTcgZjahtpg8cXJ9R
+7FfVOOPG/PL1ODgl7uakwLsPXLZ7cOv30VXn5p1RN68uYysX3+lEiYUnHIOFC1uW
+1RNa5NwXfr39YNfK4Z6Ui73lEaXyj2VNvzTtDA+837rO0fQZEXbnp9jYnvNTmZY5
+cTmvnZo948jusqjT7Ej43hvNcHWD85mE2C6QP62YGpi17cM9bQHbn6q8X7fmuTtX
+9r3UFvT+ocKOn/8G
+=wT7M
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pshinghal
+
+==================================================================
